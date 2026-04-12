@@ -1,4 +1,5 @@
-﻿using System;
+﻿using chatBot;
+using System;
 using System.IO;
 using System.Media;
 
@@ -9,7 +10,7 @@ namespace PlayMusicC
 
         static void Main(string[] args)
         {
-
+            User.UserWelcome();
 
         }
     }
