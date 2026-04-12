@@ -11,6 +11,7 @@ namespace PlayMusicC
         static void Main(string[] args)
         {
             User.UserWelcome();
+            Chatbot.Chat();
 
         }
     }

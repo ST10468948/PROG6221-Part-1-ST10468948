@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace chatBot
 {
-    internal class AudioPlayer
+    public class AudioPlayer
     {
     }
 }
