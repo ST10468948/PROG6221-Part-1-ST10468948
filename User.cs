@@ -50,7 +50,7 @@ Y88b  d88P    888   d8888888888     888          Y88b  d88P d8888888888 888     
             // If there is an error, keep asking until they type something
             while (error)
             {
-                Console.WriteLine("error");
+                Console.WriteLine("Please enter a Valid input");
                 Console.WriteLine("Please enter your name");
                 input = Console.ReadLine();
                 error = string.IsNullOrWhiteSpace(input);
