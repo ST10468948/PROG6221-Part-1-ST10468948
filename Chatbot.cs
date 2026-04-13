@@ -80,7 +80,7 @@ namespace chatBot
                     case "encryption":
                         Console.WriteLine("transforms readable plaintext into unreadable ciphertext to mask sensitive information. Some devices or services will offer encryption, but not set it as the default. Make sure to turn on encryption");
                         break;
-                    // If they typed something that isn't on the list
+                    // If they typed something that ia not on the list.
                     default:
                         Console.WriteLine("I didn't quite understand that.");
                         break;
