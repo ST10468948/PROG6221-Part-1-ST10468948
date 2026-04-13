@@ -88,6 +88,7 @@ namespace chatBot
 
                 // Ask the user if they want to stop or keep going
                 Console.WriteLine();
+
                 Console.WriteLine("Enter E to Exit or any other key to continue");
 
                 // Keep looping as long as the user does NOT press the E key
