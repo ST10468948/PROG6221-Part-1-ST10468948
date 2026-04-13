@@ -25,3 +25,10 @@ o	backup
 o	encryption
 4.	Exit: To close the program, press the 'E' key when asked if you want to continue.
 
+GitHub repository Link
+
+https://github.com/ST10468948/PROG6221-Part-1-ST10468948.git
+
+Youtube presentation Link
+
+https://youtu.be/v_pZVh4K4Cs= video
